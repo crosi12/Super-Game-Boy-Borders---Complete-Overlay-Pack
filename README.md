@@ -4,7 +4,7 @@ Full repository of the complete Super Game Boy Borders collections. Images extra
 Overlays adapted to use with RetroArch. Includes overlays in Original Size (256x224), adapted to 720x480 and to 720x720, centered and offset. For any other resolution, you can use the Original Size and adjust in Overlay Options.
 
 # Install
-Download the source code and extract the .zip file inside the retroarch folder.
+Download [here](https://github.com/crosi12/Super-Game-Boy-Borders---Complete-Overlay-Pack/releases/tag/v1.0) and extract the .zip file inside /retroarch folder.
 
 # Showcase
 <img width="720" height="480" alt="muOS_20260718_1852_0" src="https://github.com/user-attachments/assets/6585af3b-42e9-4cc0-b5df-b5f96578aa85" />
