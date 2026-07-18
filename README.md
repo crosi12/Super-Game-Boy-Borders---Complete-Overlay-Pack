@@ -7,3 +7,8 @@ Overlays adapted to use with RetroArch. Includes overlays in Original Size (256x
 Download the source code and extract the .zip file inside the retroarch folder.
 
 # Showcase
+<img width="720" height="480" alt="muOS_20260718_1852_0" src="https://github.com/user-attachments/assets/6585af3b-42e9-4cc0-b5df-b5f96578aa85" />
+<img width="720" height="480" alt="muOS_20260718_1852_2" src="https://github.com/user-attachments/assets/21a93f8c-8c1b-4225-b99d-e6e1efaa25c4" />
+<img width="720" height="480" alt="muOS_20260718_1853_0" src="https://github.com/user-attachments/assets/129e7b2d-af0d-4416-9650-64a9602a198d" />
+<img width="720" height="480" alt="muOS_20260718_1854_0" src="https://github.com/user-attachments/assets/e4d31e3b-f548-491d-8db5-db0a96de0a33" />
+<img width="720" height="480" alt="muOS_20260718_0125_1" src="https://github.com/user-attachments/assets/b4038d3e-0fdc-4ffb-899f-3c072bcdb75f" />
