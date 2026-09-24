@@ -1,7 +1,12 @@
 # Super-Game-Boy-Borders---Complete-Overlay-Pack
 Full repository of the complete Super Game Boy Borders collections. Images extracted from https://www.vgmuseum.com/features/sgb/ . Configs extracted from https://retropie.org.uk/forum/topic/8664/super-gameboy-border-overlays-complete-set .
 
-Overlays adapted to use with RetroArch. Includes overlays in Original Size (256x224), adapted to 720x480 and to 720x720, centered and offset. For any other resolution, you can use the Original Size and adjust in Overlay Options.
+Overlays adapted to use with RetroArch, or anything that display PNGs. Includes overlays in Original Size (256x224), adapted to 720x480 and to 720x720, centered and offset.
+
+For any other resolution, use the Original Size option and adjust in Retroarch Settings:
+Quick Menu > On-Screen Overlay > (Landscape) Overlay Scale & (Landcape) Overlay Aspect Adjustment.
+
+If you want to batch edit to directly adapt them other resolutions, keep in mind supergameboy[number].png files are 256x223. All the rest are 256x224.
 
 # Install
 Download [here](https://github.com/crosi12/Super-Game-Boy-Borders---Complete-Overlay-Pack/releases/tag/v1.0) and extract the .zip file inside /retroarch folder.
